@@ -1,0 +1,43 @@
+﻿<Window x:Class="TwinsDay2017_Demo.UserInput"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Input Prompt" SizeToContent="WidthAndHeight" MaxWidth="500" MinWidth="350"
+        ContentRendered="InputWindow_ContentRendered" Closing="InputWindow_Closing" ResizeMode="NoResize"
+        ShowInTaskbar="True" WindowStartupLocation="CenterOwner">
+
+    <Grid Background="#EAECEF">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        
+        <Grid Grid.Row="0" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            
+            <Image Grid.Column="0" Name="InputIcon" DockPanel.Dock="Left" MaxWidth="40" HorizontalAlignment="Center"/>
+            <TextBlock Grid.Column="1" Name="InputQuestion" FontSize="15" FontWeight="SemiBold" FontStyle="Italic" Margin="10,0" TextWrapping="WrapWithOverflow" VerticalAlignment="Center"/>
+        </Grid>
+        
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+            <Label Grid.Column="0" Name="TextPrompt" DockPanel.Dock="Left" Content="Input: " FontSize="13" FontWeight="Medium"/>
+
+            <Border Grid.Column="1" x:Name="InputWrapper" Margin="5,0,10,0"/>
+            <TextBox Grid.Column="1" Name="UserTextInput" Height="30" Width="{Binding ActualWidth, ElementName=InputWrapper}" Margin="5,0,10,0" VerticalContentAlignment="Center" TextWrapping="NoWrap"/>
+        </Grid>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="20,5,20,10">
+            <Button Name="InputOK" Content="Ok" IsDefault="True" Width="50" Height="30" Margin="5,0" Click="InputOK_Click"/>
+            <Button Name="InputCancel" Content="Cancel" IsCancel="True" Width="80" Margin="5,0" Click="InputCancel_Click"/>
+        </StackPanel>
+    </Grid>
+    
+</Window>

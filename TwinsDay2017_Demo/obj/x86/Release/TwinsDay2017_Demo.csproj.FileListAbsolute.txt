@@ -1,0 +1,73 @@
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\TWD Face Demo.exe.config
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\TWD Face Demo.exe
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\TWD Face Demo.pdb
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Biometrics.Client.dll
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Biometrics.dll
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Biometrics.Gui.dll
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.dll
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Gui.dll
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Licensing.dll
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Media.dll
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Media.Processing.dll
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Devices.dll
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.xml
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Biometrics.xml
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Biometrics.Client.xml
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Biometrics.Gui.xml
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Gui.xml
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Licensing.xml
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Media.xml
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Media.Processing.xml
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Devices.xml
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\ImageDisplay.baml
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\UserInput.baml
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\App.baml
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\ImageDisplay.g.cs
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\MainWindow.g.cs
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\UserInput.g.cs
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\App.g.cs
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TWD Face Demo_MarkupCompile.cache
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TWD Face Demo_MarkupCompile.lref
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\MainWindow.baml
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TWD Face Demo.g.resources
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TwinsDay2017_Demo.Properties.Resources.resources
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TwinsDay2017_Demo.csproj.GenerateResource.Cache
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TWD Face Demo.exe
+D:\TWD17_SERVER\TWD17 Applications (Deployable)\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TWD Face Demo.pdb
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\TWD Face Demo.exe.config
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\TWD Face Demo.exe
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\TWD Face Demo.pdb
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Biometrics.Client.dll
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Biometrics.dll
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Biometrics.Gui.dll
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.dll
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Gui.dll
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Licensing.dll
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Media.dll
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Media.Processing.dll
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Devices.dll
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.xml
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Biometrics.xml
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Biometrics.Client.xml
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Biometrics.Gui.xml
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Gui.xml
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Licensing.xml
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Media.xml
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Media.Processing.xml
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\bin\x86\Release\Neurotec.Devices.xml
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TwinsDay2017_Demo.csprojResolveAssemblyReference.cache
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\ImageDisplay.baml
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\UserInput.baml
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\App.baml
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\ImageDisplay.g.cs
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\MainWindow.g.cs
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\UserInput.g.cs
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\App.g.cs
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TWD Face Demo_MarkupCompile.cache
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TWD Face Demo_MarkupCompile.lref
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\MainWindow.baml
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TWD Face Demo.g.resources
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TwinsDay2017_Demo.Properties.Resources.resources
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TwinsDay2017_Demo.csproj.GenerateResource.Cache
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TWD Face Demo.exe
+C:\Users\FBI_WorkStation_2\Desktop\TwinsDay2017_Demo\TwinsDay2017_Demo\obj\x86\Release\TWD Face Demo.pdb

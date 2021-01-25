@@ -1,0 +1,59 @@
+﻿<Window x:Class="TwinsDay2017_Demo.ServerSet"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Set Demo Server Path" Height="220" Width="525" ResizeMode="NoResize"
+        ShowInTaskbar="True" WindowStartupLocation="CenterOwner">
+
+    <Grid Background="#EAECEF">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Grid Grid.Row="0" Margin="10,20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            
+            <!-- TOP INPUT -->
+            <DockPanel Grid.Row="0" Grid.Column="1" Margin="10,10,20,10">
+                <!--<Button DockPanel.Dock="Left" Content="INPUT"/>-->
+                <Rectangle Name="ServerStatus" DockPanel.Dock="Right" Width="15" Fill="Gray" Loaded="ServerStatus_Loaded"/>
+                <TextBox Name="ServerPath" VerticalContentAlignment="Center" TextChanged="ServerPath_TextChanged" Background="GhostWhite"/>
+            </DockPanel>
+            <Label Grid.Row="0" Grid.Column="0" Content="Server:" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" Margin="0,10" FontWeight="Bold" FontSize="14"/>
+            <Button Name="ServerButtonSet" Grid.Row="0" Grid.Column="2" Height="30" Width="60" Click="ServerButtonSet_Click">
+                <Label Content="Set" FontWeight="SemiBold" FontSize="14"/>
+            </Button>
+
+            <!-- BOTTOM INPUT -->
+            <DockPanel Grid.Row="1" Grid.Column="1" Margin="10,10,20,10">
+                <Button Name="DataFolderSearch" DockPanel.Dock="Left" Width="35" Click="DataFolderSearch_Click">
+                    <Image Width="16" Source="/Icon Images/Small/Folder.png"/>
+                </Button>
+                <Rectangle Name="DataStatus" DockPanel.Dock="Right" Width="15" Fill="Gray" Loaded="DataStatus_Loaded"/>
+                <TextBox Name="DataPath" VerticalContentAlignment="Center" TextChanged="DataPath_TextChanged" Background="GhostWhite"/>
+            </DockPanel>
+            <Label Grid.Row="1" Grid.Column="0" Content="Data Folder:" VerticalContentAlignment="Center" HorizontalAlignment="Right" Margin="0,10" FontWeight="Bold" FontSize="14"/>
+            <Button Name="DataButtonSet" Grid.Row="1" Grid.Column="2" Height="30" Width="60" Click="DataButtonSet_Click">
+                <Label Content="Set" FontWeight="SemiBold" FontSize="14"/>
+            </Button>
+        </Grid>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5">
+            <Button Name="ServerReset" Height="35" Width="80" Content="Reset" Margin="5,0"
+                    VerticalAlignment="Center" HorizontalAlignment="Center" Click="ServerReset_Click"
+                    FontWeight="SemiBold" FontSize="14"/>
+            <Button Name="ServerClose" Height="35" Width="80" Content="Close" Margin="5,0"
+                    VerticalAlignment="Center" HorizontalAlignment="Center" Click="ServerClose_Click"
+                    FontWeight="SemiBold" FontSize="14"/>
+        </StackPanel>
+        
+    </Grid>
+</Window>
